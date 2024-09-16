@@ -1,0 +1,97 @@
+{
+  "id": 1,
+  "account_id": 371138,
+  "limit": 9000,
+  "products": [
+    "Derivatives",
+    "InvestmentStock"
+  ],
+  "username": "fmiller",
+  "name": "Elizabeth Ray",
+  "address": "9286 Bethany Glens\nVasqueztown, CO 22939",
+  "birthdate": {
+    "$date": "1977-03-02T02:20:31.000Z"
+  },
+  "email": "arroyocolton@gmail.com",
+  "active": true,
+  "tier_and_details": {
+    "k": {
+      "tier": "Bronze",
+      "id": "0df078f33aa74a2e9696e0520c1a828a",
+      "active": true,
+      "benefits": [
+        "sports tickets"
+      ]
+    },
+    "v": {
+      "tier": "Bronze",
+      "benefits": [
+        "24 hour dedicated line",
+        "concierge services"
+      ],
+      "active": true,
+      "id": "699456451cc24f028d2aa99d7534c219"
+    }
+  },
+  "transaction_count": 5,
+  "bucket_start_date": {
+    "$date": {
+      "$numberLong": "-28598400000"
+    }
+  },
+  "bucket_end_date": {
+    "$date": "2017-01-03T00:00:00.000Z"
+  },
+  "transactions": [
+    {
+      "date": {
+        "$date": "2003-09-09T00:00:00.000Z"
+      },
+      "amount": 7514,
+      "transaction_code": "buy",
+      "symbol": "adbe",
+      "price": "19.1072802650074180519368383102118968963623046875",
+      "total": "143572.1039112657392422534031"
+    },
+    {
+      "date": {
+        "$date": "2016-06-14T00:00:00.000Z"
+      },
+      "amount": 9240,
+      "transaction_code": "buy",
+      "symbol": "team",
+      "price": "24.1525632387771480580340721644461154937744140625",
+      "total": "223169.6843263008480562348268"
+    },
+    {
+      "date": {
+        "$date": "2002-12-04T00:00:00.000Z"
+      },
+      "amount": 2824,
+      "transaction_code": "buy",
+      "symbol": "msft",
+      "price": "21.046193953245431629284212249331176280975341796875",
+      "total": "59434.45172396509892109861539"
+    },
+    {
+      "date": {
+        "$date": "2014-07-14T00:00:00.000Z"
+      },
+      "amount": 7418,
+      "transaction_code": "sell",
+      "symbol": "sap",
+      "price": "76.38514540536692720706923864781856536865234375",
+      "total": "566625.0086170118660220396123"
+    },
+    {
+      "date": {
+        "$date": "2011-10-28T00:00:00.000Z"
+      },
+      "amount": 5638,
+      "transaction_code": "buy",
+      "symbol": "adbe",
+      "price": "28.365657608641175357888641883619129657745361328125",
+      "total": "159925.5775975189466677761629"
+    }
+  ]
+}
